@@ -11,4 +11,6 @@ void SayHi(void);
 
 void Destroy(void);
 
+void Today(void);
+
 #endif 
