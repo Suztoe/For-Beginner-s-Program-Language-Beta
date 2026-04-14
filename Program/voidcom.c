@@ -14,5 +14,6 @@ void Destroy() {
      return;
 }
 void Today() {
-     time_t time(time_t *timer);
+     time_t now = time(NULL);
+     printf("%s", ctime(&now));
 }
