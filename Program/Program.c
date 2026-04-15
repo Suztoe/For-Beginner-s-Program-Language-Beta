@@ -7,6 +7,6 @@ int main(void) {
     SayHi();
     Hello();
     Help();
-    Destroy();
     Today();
+    Destroy();
 }
