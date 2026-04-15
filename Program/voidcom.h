@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 
-void Hello(void);
+void PrintHello(void);
 
 void Help(void);
 

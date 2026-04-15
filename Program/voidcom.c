@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <time.h>
 
-void Hello() {
+void PrintHello() {
     printf("Hello, world!\n");
 }
 void Help() {
     printf("For bignner Program Language\n");
 }
 void SayHi() {
-    printf("hi\n");
+    printf("hi.\n");
 }
 void Destroy() {
      return;

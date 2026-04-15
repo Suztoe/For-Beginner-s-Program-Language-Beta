@@ -1,5 +1,6 @@
 // This is Beginner Program Language
-// only SayHi(),  Help(), Hello(), Destroy(), Today()
+// only SayHi(),  Help(), PrintHello(), Destroy(), Today()
+/*EXAMPLE:
 #include <stdio.h>
 #include "voidcom.h"
 
@@ -10,3 +11,5 @@ int main(void) {
     Today();
     Destroy();
 }
+*/
+
