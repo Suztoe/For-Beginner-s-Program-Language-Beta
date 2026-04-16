@@ -8,7 +8,7 @@ int main(void) {
     SayHi();
     Hello();
     Help();
-    Date();
+    Today();
     Destroy();
 }
 */

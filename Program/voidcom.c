@@ -5,7 +5,7 @@ void PrintHello() {
     printf("Hello, world!\n");
 }
 void Help() {
-    printf("For bignner Program Language\n");
+    printf("For Beginner Program Language\n");
 }
 void SayHi() {
     printf("hi.\n");
