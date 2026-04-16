@@ -13,7 +13,8 @@ void SayHi() {
 void Destroy() {
      return;
 }
-void Today() {
+void Date() {
      time_t now = time(NULL);
      printf("%s", ctime(&now));
 }
+
