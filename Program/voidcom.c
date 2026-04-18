@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 
 void PrintHello() {
@@ -11,7 +12,7 @@ void SayHi() {
     printf("hi.\n");
 }
 void Destroy() {
-     return;
+     exit(0);
 }
 void Date() {
      time_t now = time(NULL);
