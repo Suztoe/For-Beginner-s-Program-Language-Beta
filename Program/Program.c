@@ -5,11 +5,11 @@
 #include "voidcom.h"
 
 int main(void) {
-    SayHi();
-    Hello();
-    Help();
-    Date();
-    Destroy();
+    SayHi(); // "hi."
+    PrintHello(); // "Hello, world!"
+    Help(); // "<Help>"
+    Date(); // "<now time>"
+    Destroy(); // "<end>"
 }
 
 
